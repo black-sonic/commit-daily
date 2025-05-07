@@ -1,2 +1,2 @@
-# commit-daily
- Repo test commit 
+# Commit Harian untuk Gitcoin
+Repo ini digunakan untuk latihan commit harian.

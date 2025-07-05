@@ -1,4 +1,3 @@
 # Daily Commit Log
 
-This repository is used for practicing and tracking daily commit activity.
-
+A simple repository to stay consistent with daily commits and keep the coding habit alive.
